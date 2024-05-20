@@ -1,8 +1,7 @@
-# FE-2023-examples
-Example scripts for 2023 faculty enrichment program in applied malaria modeling at Northwestern
+# FE-2024-examples
+Example scripts for 2024 faculty enrichment program in applied malaria modeling at Northwestern
 
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/numalariamodeling/FE-2023-examples/blob/main/README.md)
-[![fr](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/numalariamodeling/FE-2023-examples/blob/main/README.fr.md)
 
 ⚠️ - Tips
 
