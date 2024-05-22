@@ -1156,3 +1156,24 @@ View the `SpatialSummary.png` that was created.
 
 </p>
 </details>
+
+
+
+</p>
+</details>
+
+<details><summary><span><em><h3>Geospatial/Modeling and mapping</h3></em></span></summary>
+<p>
+
+
+
+
+
+
+</p>
+</details>
+
+
+
+
+
