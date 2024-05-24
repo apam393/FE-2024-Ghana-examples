@@ -5,6 +5,7 @@ Example scripts for 2024 faculty enrichment program in applied malaria modeling 
 
 ⚠️ - Tips
 
+
 ❓ - Self-Check Questions
 
 ➕ - Bonus Exercises
@@ -1173,8 +1174,3 @@ Learning objectives: This module will help you understand spatial data types and
 
 </p>
 </details>
-
-
-
-
-
