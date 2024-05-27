@@ -1168,7 +1168,7 @@ View the `SpatialSummary.png` that was created.
 **GEOSPATIAL MODELLING AND MAPPING TRAINING WORKSHOP*** 
 Learning objectives: This module will help you understand spatial data types and will show you how to develop geospatial models and to create geospatial maps for both observed and predicted health outcomes with focus on Malaria using the R free software and its associated packages. We will be working with possible scenarios, understanding the data, maps and why this is critical to support health policy and intervention strategies related to malaria control and elimination programs.
 
-
+Follow the tutorials [here](https://feghana.org/gis.html).
 
 
 </p>
